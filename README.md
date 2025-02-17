@@ -15,7 +15,7 @@ Click Reset to set the timer back to 00:00:00:000.
 ## Files
 
 index.html – Structure of the stopwatch.
-styles.css – Basic styling (not included in the provided code).
+styles.css – Basic styling.
 script.js – Stopwatch functionality.
 ## Installation
 
